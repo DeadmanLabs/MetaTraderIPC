@@ -1,0 +1,9 @@
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\bin\Debug\MTIPC.dll
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\bin\Debug\MTIPC.pdb
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\obj\Debug\MTIPC.csprojAssemblyReference.cache
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\obj\Debug\MTIPC.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\obj\Debug\MTIPC.dll
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\obj\Debug\MTIPC.pdb
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\bin\Debug\NamedPipeWrapper.dll
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\bin\Debug\NamedPipeWrapper.pdb
+C:\Users\Omen\source\repos\MetaTraderIPC\MTIPC\obj\Debug\MTIPC.csproj.CopyComplete

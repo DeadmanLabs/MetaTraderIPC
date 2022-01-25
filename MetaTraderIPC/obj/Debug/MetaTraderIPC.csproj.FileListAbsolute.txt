@@ -1,0 +1,13 @@
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\bin\Debug\MetaTraderIPC.exe.config
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\bin\Debug\MetaTraderIPC.exe
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\bin\Debug\MetaTraderIPC.pdb
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\bin\Debug\MTIPC.dll
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\bin\Debug\MTIPC.pdb
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.csprojAssemblyReference.cache
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.FrmTest.resources
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.Properties.Resources.resources
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.csproj.GenerateResource.cache
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.csproj.CopyComplete
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.exe
+C:\Users\Omen\source\repos\MetaTraderIPC\MetaTraderIPC\obj\Debug\MetaTraderIPC.pdb
